@@ -1,0 +1,7 @@
+/*
+ * Method
+ */
+
+Meteor.methods({
+    
+});
